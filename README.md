@@ -1,1 +1,1 @@
-# stepin_mini_project
+# StepIn_MiniProject-C
