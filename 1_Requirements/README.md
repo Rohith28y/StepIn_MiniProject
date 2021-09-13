@@ -46,4 +46,3 @@ Hardware Requirements:
   •	The Hardware requirements that we require for the software as follows:
       Ram: 8Gb.
       Processor: i3 and above.
-
