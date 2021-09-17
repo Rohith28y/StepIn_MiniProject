@@ -28,4 +28,4 @@ ____
 _______
 | 12 | To check modulus of three numbers and display Output	  |   %	  |Mod(2,7,6)	| 2	  | Fail  |
 _______
-| 13 | 	To check log of two numbers and display output	| Log()	| Log(20,0)  | 	1   | 	Pass  |
+| 13 | 	To check log of two numbers and display output	| Log()	| Log(20,0)  | 	1   | 	Pass  | 
