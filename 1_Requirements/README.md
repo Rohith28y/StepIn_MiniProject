@@ -67,4 +67,4 @@ To perform the mathematical operations given by the user.
 | LR08 | Performing Square | HR02 | Implemented |
 | LR09 | Performing Cube | HR02 | Implemented |
 | LR10 | Performing Square root | HR02 | Implemented |
-| LR11 | Performing Logarithmic | HR02 | Implemented |
+| LR11 | Performing Logarithmic | HR02 | Implemented | 
