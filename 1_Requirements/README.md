@@ -44,3 +44,27 @@ To perform the mathematical operations given by the user.
      •	The Hardware requirements that we require for the software as follows:
            Ram: 8Gb
            Processor: i3 and above.
+
+
+## Detailed Requirements
+### High Level Requirements 
+| ID | Description | Status (Implemented/Future) | 
+| ----- | ----- | ---------|
+| HR01 | User should be able to perform Arthimetic Operations | Implemented | 
+| HR02 | User should be able to perform Other operations | Implemented |
+
+
+### Low Level Requirements
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| LR01 | Permorming Addition | HR01 | Implemented |
+| LR02 | Performing Subtraction | HR01 | Implemented |
+| LR03 | Performing Multiplication | HR01 | Implemented |
+| LR04 | Performing Division | HR01 | Implemented |
+| LR05 | Performing Modulus | HR01 | Implemented |
+| LR06 | Performing Power | HR02 | Implemented |
+| LR07 | Performing Factorial  | HR02 | Implemented |
+| LR08 | Performing Square | HR02 | Implemented |
+| LR09 | Performing Cube | HR02 | Implemented |
+| LR10 | Performing Square root | HR02 | Implemented |
+| LR11 | Performing Logarithmic | HR02 | Implemented |
