@@ -1,3 +1,3 @@
-# StepIn_Calculator.C
+# StepIn_Calculator.c
 
 [![C/C++ CI - Build Status](https://github.com/Rohith28y/StepIn_MiniProject/actions/workflows/main.yml/badge.svg)](https://github.com/Rohith28y/StepIn_MiniProject/actions/workflows/main.yml)  [![Code Quality - Static Code - Cppcheck](https://github.com/Rohith28y/StepIn_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Rohith28y/StepIn_MiniProject/actions/workflows/cppcheck.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Rohith28y/StepIn_MiniProject/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Rohith28y/StepIn_MiniProject/actions/workflows/valgrind.yml)  [![Code Grade](https://www.code-inspector.com/project/29072/status/svg)](https://www.code-inspector.com/project/29072/status/svg) [![Code Quality - Score ](https://www.code-inspector.com/project/29072/score/svg)](https://www.code-inspector.com/project/29072/score/svg)
